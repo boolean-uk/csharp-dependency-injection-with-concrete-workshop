@@ -5,7 +5,7 @@
 - Explain the drawbacks of creating instances of classes inside other classes
 
 ## Workshop Sample
-Demonstrate in a C# console app how to instantiate classes and debug.  Demonstrate overloading with multiple constructors, methods. 
+Demonstrate  in a C# console app how to instantiate classes and inject concrete classes into them.  Demonstrate overloading with multiple constructors, methods. 
 I’ll create  VW solution with a console application called VW.Factory which we will use to create cars & parts.  Constructing cars by passing in parts to the constructor.
 
 Set up instructions
