@@ -1,4 +1,4 @@
-# C# Constructors & Overloading - Workshop Sample
+# C# Dependency Injection with Concrete Classes - Workshop Sample
 
 ## Learning Objectives
 - Use dependency injection to improve extensibility of a program
