@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Calculator2
 {
-    internal class Subtracting
+    public class Subtract
     {
+        public int Subtracting(int a, int b)
+        {
+            return a - b;
+        }
     }
 }
