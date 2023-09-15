@@ -3,12 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using VW.Factory.CarParts;
 
-namespace VW.Factory.Cars
+namespace VW.Factory.CarParts
 {
-    public class Golf
+    public class DieselEngine
     {
-
     }
 }

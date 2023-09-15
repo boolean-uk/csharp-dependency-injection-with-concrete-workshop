@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace VW.Factory.CarParts
 {
-    public class ElectricEngineParts
+    public class PetrolEngine
     {
-        public ElectricEngineParts()
-        {
-
-        }
     }
 }

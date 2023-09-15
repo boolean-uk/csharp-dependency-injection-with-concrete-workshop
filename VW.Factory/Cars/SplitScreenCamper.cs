@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace VW.Factory.CarParts
+namespace VW.Factory.Cars
 {
-    public class PetrolEngineParts
+    internal class SplitScreenCamper
     {
     }
 }
