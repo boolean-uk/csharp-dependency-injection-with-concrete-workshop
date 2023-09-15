@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace VW.Factory.Cars
 {
-    internal class Up
+    public class Up
     {
     }
 }

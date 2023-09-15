@@ -10,7 +10,10 @@ namespace VW.Factory
 
             //car production line
 
+            ElectricEngine engine = new ElectricEngine();
+            Beetle beetle = new Beetle(engine);
             
+            beetle.accelerate();
 
             Console.ReadLine();
 

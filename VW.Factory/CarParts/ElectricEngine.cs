@@ -8,6 +8,13 @@ namespace VW.Factory.CarParts
 {
     public class ElectricEngine
     {
-        
+        public void switchOn()
+        {
+
+        }
+        public void engageBattery()
+        {
+
+        }
     }
 }

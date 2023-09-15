@@ -10,9 +10,30 @@ namespace VW.Factory.Cars
 {
     public class Beetle
     {
-               
+        private ElectricEngine _electricEngine;
 
+        public Beetle(ElectricEngine engine)
+        {
+            _electricEngine = engine;
+            
+        }
         
+
+        public void accelerate()
+        {
+        
+            
+            _electricEngine.engageBattery();
+            
+
+            
+
+        }
+
+
+
+
+
 
         //method overloading
         public void SelfDriveMode(int averageSpeed, string cityDestination)
@@ -32,5 +53,6 @@ namespace VW.Factory.Cars
 
         }
 
+        
     }
 }
